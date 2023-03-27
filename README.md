@@ -1,7 +1,7 @@
 # Ekuator Tech REST API (Laravel)
 
 ## Requirements
-1. Laravel 8.0.23
+1. Laravel 8.0.23 or above
 
 ## Installation
 
